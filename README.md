@@ -3,7 +3,7 @@
   <img src="https://github.com/z-zzye/z-zzye/blob/main/assets/banner.png" alt="PlanPie Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Ming Bo</h1>
+<h1 align="center">👋 Hi, I'm z-zzye</h1>
 <p align="center">
   🚀 Full-stack Developer | 🌐 PlanPie 프로젝트 진행 중 <br/>
   나만의 코스를 공유하고 예약까지 가능한 플랫폼을 만드는 중입니다.
