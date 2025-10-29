@@ -1,28 +1,45 @@
 <h1 align="center">👋 Hi, I'm z-zzye</h1>
 <p align="center">
-  🚀 Full-stack Developer | 🌐 PlanPie 프로젝트 진행 중 <br/>
-  나만의 코스를 공유하고 예약까지 가능한 플랫폼을 만드는 중입니다.
+  🚀 Full-stack Developer
 </p>
+
+## 👩‍💻 About Me
+- 꼼꼼한 기록과 집요한 문제 해결로 성장하는 풀스택 개발자입니다.
+- 사용자 경험을 중심으로, 백엔드 성능 개선과 프론트엔드 완성도를 함께 추구합니다.
+- 현재 `PlanPie` 프로젝트를 통해 **Next.js + Spring Boot + Redis + MySQL** 기반의 통합 플랫폼을 구축 중입니다.
 
 ---
 
 ## 🛠 Tech Stack
+
+**Back-End**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat&logoColor=white)
+
+**Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+**Tools & Environment**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=z-zzye&theme=radical&hide_border=true)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=z-zzye&theme=radical&margin-w=10)
 
 ---
 
@@ -46,10 +63,12 @@
 ---
 
 <p align="center">
-  방문해주셔서 감사합니다! 🙏 <br/>
+  🌱 꾸준히 성장하는 개발자가 되겠습니다. <br/>
+  방문해주셔서 감사합니다! 🙏 <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=z-zzye&style=flat-square&color=blue" alt="profile views"/>
 </p>
-[Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:forsythia0119@gmail.com)
+
+
 
 
 
