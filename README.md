@@ -4,9 +4,8 @@
 </p>
 
 ## 👩‍💻 About Me
-- 꼼꼼한 기록과 집요한 문제 해결로 성장하는 풀스택 개발자입니다.
+- 꼼꼼하게 기록하고 끈기 있게 문제를 해결하는 풀스택 개발자입니다.
 - 사용자 경험을 중심으로, 백엔드 성능 개선과 프론트엔드 완성도를 함께 추구합니다.
-- 현재 `PlanPie` 프로젝트를 통해 **Next.js + Spring Boot + Redis + MySQL** 기반의 통합 플랫폼을 구축 중입니다.
 
 ---
 
@@ -45,7 +44,7 @@
 
 ## 🚧 Projects
 - [PlanPie](https://github.com/z-zzye/PlanPie) : 🍰 캐치테이블 벤치마킹 예약 & 코스 공유 플랫폼
-- [Petory](https://github.com/z-zzye/Petory) : 🐶 반려동물 케어 & 마일리지 경매 사이트
+- [Petory](https://github.com/z-zzye/Petory) : 🐶 반려동물 헬스케어 웹 플랫폼
 
 ---
 
