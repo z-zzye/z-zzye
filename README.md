@@ -36,15 +36,9 @@
 
 ---
 
-## 📈 Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=z-zzye&theme=radical&hide_border=true)
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=z-zzye&theme=radical&margin-w=10)
-
----
-
 ## 🚧 Projects
-- [PlanPie](https://github.com/z-zzye/PlanPie) : 🍰 캐치테이블 벤치마킹 예약 & 코스 공유 플랫폼
-- [Petory](https://github.com/z-zzye/Petory) : 🐶 반려동물 헬스케어 웹 플랫폼
+- [PlanPie](https://github.com/z-zzye/PlanPie) : 🍰 캐치테이블 벤치마킹 예약 & 코스 공유 플랫폼 (1인 프로젝트)
+- [Petory](https://github.com/z-zzye/Petory) : 🐶 반려동물 헬스케어 웹 플랫폼 (3인 프로젝트)
 
 ---
 
@@ -53,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=z-zzye&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-zzye&layout=compact&theme=radical" height="165"/>
 </p>
-
----
-
-## 📫 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:forsythia0119@gmail.com)
 
 ---
 
