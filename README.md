@@ -38,7 +38,7 @@
 
 ## 🚧 Projects
 - [PlanPie](https://github.com/z-zzye/PlanPie) : 🍰 캐치테이블 벤치마킹 예약 & 코스 공유 플랫폼 (1인 프로젝트)
-- [Petory](https://github.com/z-zzye/Petory) : 🐶 반려동물 헬스케어 웹 플랫폼 (3인 프로젝트)
+- [Petory](https://github.com/z-zzye/PetCare) : 🐶 반려동물 헬스케어 웹 플랫폼 (3인 프로젝트)
 
 ---
 
